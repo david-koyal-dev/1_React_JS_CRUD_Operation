@@ -5,6 +5,7 @@ import Edit from "./components/student/Edit";
 function App() {
   return (
     <>
+      <h1>i am david</h1>
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={Home} />
